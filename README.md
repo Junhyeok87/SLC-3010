@@ -1,15 +1,31 @@
-# SLC-3010 manuscript code
+# SLC-3010 analysis code
 
-This repository is being prepared to host the analysis and figure-generation code for the SLC-3010 manuscript.
+R-based data analysis, statistical testing, and figure generation for the SLC-3010 study.
 
-## Status
+This repository accompanies the SLC-3010 manuscript. It is intended to support reproducible analysis of experimental measurements, bulk RNA-seq data, and T-cell receptor (TCR) repertoires.
 
-Repository initialization only. Analysis scripts, input mappings, environment files, and a validated submission release have not yet been added. This is not yet a complete reproducibility package.
+*Analysis scripts and reproducibility documentation are being prepared for release.*
 
-## Data and scope
+## Data availability
 
-Numerical Source Data will be supplied with the journal submission. RNA-seq and TCR-seq FASTQ files are deposited separately in NCBI SRA. Raw sequencing files, raw flow-cytometry files, manuscript files, credentials, and internal project records are outside the scope of this code repository.
+### Source Data
 
-## License and citation
+Numerical data underlying the manuscript figures will be provided as Source Data accompanying the manuscript.
 
-A code license and formal citation metadata have not yet been selected. No software or article DOI is assigned by this initialization.
+### Sequencing data
+
+Raw RNA-seq and TCR-seq reads have been deposited in the NCBI Sequence Read Archive (SRA) under the following BioProject accessions:
+
+| Dataset | BioProject |
+| --- | --- |
+| Splenic memory-phenotype CD8 T-cell RNA-seq | [PRJNA1556011](https://www.ncbi.nlm.nih.gov/bioproject/PRJNA1556011) |
+| MC38 Thy1.2-enriched tumor-infiltrating lymphocyte RNA-seq | [PRJNA1556361](https://www.ncbi.nlm.nih.gov/bioproject/PRJNA1556361) |
+| RENCA Thy1.2-enriched tumor-infiltrating lymphocyte TCR alpha/beta repertoire sequencing | [PRJNA1556364](https://www.ncbi.nlm.nih.gov/bioproject/PRJNA1556364) |
+
+## Reproducing the analyses
+
+Documentation accompanying each workflow will specify the required input files, software and package versions, execution steps, and expected outputs. It will also link the analysis scripts to the corresponding manuscript figures and distinguish processed analysis inputs from the raw sequencing reads deposited in SRA.
+
+## Questions
+
+For questions about the code or to report a problem, please open a [GitHub issue](https://github.com/Junhyeok87/SLC-3010/issues). Include the relevant script, software versions, and any error message when reporting an execution problem.
