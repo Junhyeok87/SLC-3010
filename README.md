@@ -16,13 +16,7 @@ Numerical data supporting the findings in this manuscript will be provided in th
 
 ### Sequencing data
 
-Raw RNA-seq and TCR-seq reads have been deposited in the NCBI Sequence Read Archive (SRA) under the following BioProject accessions:
-
-| Dataset | BioProject |
-| --- | --- |
-| Splenic memory-phenotype CD8 T-cell RNA-seq | [PRJNA1556011](https://www.ncbi.nlm.nih.gov/bioproject/PRJNA1556011) |
-| MC38 Thy1.2-enriched tumor-infiltrating lymphocyte RNA-seq | [PRJNA1556361](https://www.ncbi.nlm.nih.gov/bioproject/PRJNA1556361) |
-| RENCA Thy1.2-enriched tumor-infiltrating lymphocyte TCR alpha/beta repertoire sequencing | [PRJNA1556364](https://www.ncbi.nlm.nih.gov/bioproject/PRJNA1556364) |
+Raw RNA-seq and TCR-seq data have been submitted to the NCBI Sequence Read Archive (SRA) and are currently not publicly available. BioProject accession details and confidential reviewer links for accessing the submission metadata will be provided to the journal during peer review. Public accession links will be added here upon release.
 
 ## Reproducing the analyses
 
