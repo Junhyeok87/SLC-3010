@@ -2,7 +2,9 @@
 
 R-based data analysis, statistical testing, and figure generation for the SLC-3010 study.
 
-This repository accompanies the SLC-3010 manuscript. It is intended to support reproducible analysis of experimental measurements, bulk RNA-seq data, and T-cell receptor (TCR) repertoires.
+This repository accompanies the research article entitled “SLC-3010 enhances antitumor immunity with CD122-biased, CD25-accessible primary signaling and persistent antibody activity”.
+
+It is intended to support the reproducibility of the research presented in the article.
 
 *Analysis scripts and reproducibility documentation are being prepared for release.*
 
