@@ -1,4 +1,4 @@
-# SLC-3010 analysis code
+# SLC-3010: Data Analysis and Reproducibility
 
 R-based data analysis, statistical testing, and figure generation for the SLC-3010 study.
 
