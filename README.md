@@ -10,7 +10,7 @@ This repository accompanies the SLC-3010 manuscript. It is intended to support r
 
 ### Source Data
 
-Numerical data underlying the manuscript figures will be provided as Source Data accompanying the manuscript.
+Numerical data supporting the findings in this manuscript will be provided in the accompanying Source Data files.
 
 ### Sequencing data
 
