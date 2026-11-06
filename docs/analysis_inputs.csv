@@ -1,0 +1,66 @@
+Script,Dataset,Workbook,Sheet,Range,Role
+analysis/Fig_01I_pSTAT5_CD8.R,fig01i_pstat5,Source_Data.xlsx,Figure 1,A7:E28,input
+analysis/Fig_01J_pSTAT5_Unstimulated_Activated.R,fig01j_pstat5,Source_Data.xlsx,Figure 1,A44:E55,input
+analysis/Fig_02A_Suppl_Fig_03A_OT1_Host_CD8.R,fig02a_ot1_counts,Source_Data.xlsx,Figure 2,A7:D29,input
+analysis/Fig_02A_Suppl_Fig_03A_OT1_Host_CD8.R,figs03a_host_counts,Source_Data.xlsx,Supplementary Figure 3,A7:D29,input
+analysis/Fig_02D-G_OT1_CD25_Blockade_OVA_Tetramer.R,fig02d_ot1_blockade,Source_Data.xlsx,Figure 2,A49:C73,input
+analysis/Fig_02D-G_OT1_CD25_Blockade_OVA_Tetramer.R,fig02e_host_blockade,Source_Data.xlsx,Figure 2,A79:C103,input
+analysis/Fig_02D-G_OT1_CD25_Blockade_OVA_Tetramer.R,fig02fg_ova_tetramer,Source_Data.xlsx,Figure 2,A109:D126,input
+analysis/Fig_03A_MO5_tumor_growth.R,fig03a_mo5_growth,Source_Data.xlsx,Figure 3,A8:G776,input
+analysis/Fig_03C-D_intratumoral_CD8_counts.R,fig03c_transferred_counts,Source_Data.xlsx,Figure 3,A781:C796,input
+analysis/Fig_03C-D_intratumoral_CD8_counts.R,fig03d_host_counts,Source_Data.xlsx,Figure 3,A802:C817,input
+analysis/Fig_03E-G_AH1_reference_TCR.R,AH1_reference,Source_Data_TCR_inputs.xlsx,AH1_reference,A1:B41,Literature reference
+analysis/Fig_03E-G_AH1_reference_TCR.R,S1_clone_counts,Source_Data_TCR_inputs.xlsx,S1_clone_counts,A1:G83152,Clone-level observations
+analysis/Fig_03E-G_AH1_reference_TCR.R,S2_clone_counts,Source_Data_TCR_inputs.xlsx,S2_clone_counts,A1:G52598,Clone-level observations
+analysis/Fig_03E-G_AH1_reference_TCR.R,S3_clone_counts,Source_Data_TCR_inputs.xlsx,S3_clone_counts,A1:G61038,Clone-level observations
+analysis/Fig_03E-G_AH1_reference_TCR.R,Sample_information,Source_Data_TCR_inputs.xlsx,Sample_information,A3:F10,Sample metadata with figure labels and direct clonotype worksheet names
+analysis/Fig_03E-G_AH1_reference_TCR.R,V1_clone_counts,Source_Data_TCR_inputs.xlsx,V1_clone_counts,A1:G24921,Clone-level observations
+analysis/Fig_03E-G_AH1_reference_TCR.R,V2_clone_counts,Source_Data_TCR_inputs.xlsx,V2_clone_counts,A1:G20360,Clone-level observations
+analysis/Fig_03E-G_AH1_reference_TCR.R,V3_clone_counts,Source_Data_TCR_inputs.xlsx,V3_clone_counts,A1:G13422,Clone-level observations
+analysis/Fig_03E-G_AH1_reference_TCR.R,V4_clone_counts,Source_Data_TCR_inputs.xlsx,V4_clone_counts,A1:G12519,Clone-level observations
+analysis/Fig_04A-C__Fig_S06A_single_dose_PK.R,fig04ab_single_dose_pk,Source_Data.xlsx,Figure 4,A7:E300,input
+analysis/Fig_04E-F_sequential_serum_PK.R,fig04ef_sequential_pk,Source_Data.xlsx,Figure 4,A373:G668,input
+analysis/Fig_04G-I_sequential_splenic_responses.R,fig04ghi_splenic,Source_Data.xlsx,Figure 4,A730:F775,input
+analysis/Fig_04K-M_interval_splenic_responses.R,fig04km_interval_splenic,Source_Data.xlsx,Figure 4,A781:F970,input
+analysis/Fig_04K-M_interval_splenic_responses.R,splenic_Dunnett_comparisons,Source_Data.xlsx,Dunnett comparisons,A5:F65,adjusted P values
+analysis/Fig_05A-B_blood_Treg.R,Fig_05A-B_blood_Treg,Source_Data.xlsx,Figure 5,A7:G381,input
+analysis/Fig_05E-G_splenic_responses.R,Fig_05E_splenic_MP_CD8,Source_Data.xlsx,Figure 5,A387:F507,input
+analysis/Fig_05E-G_splenic_responses.R,Fig_05F_splenic_Treg,Source_Data.xlsx,Figure 5,A513:F633,input
+analysis/Fig_05E-G_splenic_responses.R,Fig_05G_splenic_MP_CD8_Treg_ratio,Source_Data.xlsx,Figure 5,A639:F759,input
+analysis/Fig_05H_PCA.R,RNA_MP_raw_counts,Source_Data_RNA_inputs.xlsx,MP_CD8_raw_counts,A1:T45775,input
+analysis/Fig_05H_PCA.R,RNA_MP_samples,Source_Data_RNA_inputs.xlsx,Sample_information,A3:D21,sample metadata: count-column key; sample ID; genotype; time point
+analysis/Fig_05H_PCA.R,RNA_PCA_counts,Source_Data_RNA_inputs.xlsx,MP_CD8_normalized_counts,A1:T13137,input
+analysis/Fig_05I_volcano.R,MP_CD8_raw_counts,Source_Data_RNA_inputs.xlsx,MP_CD8_raw_counts,A1:T45775,input
+analysis/Fig_05I_volcano.R,RNA_GO_metadata,Source_Data_RNA_inputs.xlsx,GO_reference_info,A1:B2,reference
+analysis/Fig_05I_volcano.R,RNA_GO_reference,Source_Data_RNA_inputs.xlsx,GO_BP_reference,A1:F7933,reference
+analysis/Fig_05J_fgsea.R,RNA_GO_reference,Source_Data_RNA_inputs.xlsx,GO_BP_reference,A1:F7933,reference
+analysis/Fig_05J_fgsea.R,RNA_fgsea_rank_input,Source_Data_RNA_inputs.xlsx,MP_CD8_GSEA_rank_input,A1:C460,input
+analysis/Fig_05J_fgsea.R,RNA_fgsea_saved,Source_Data_RNA_inputs.xlsx,MP_CD8_GSEA_results,A1:K318,stored statistics
+analysis/Fig_06A_MC38_mean_growth.R,Fig_06A-B_MC38_tumor_growth,Source_Data.xlsx,Figure 6,A7:K101,input
+analysis/Fig_06B_MC38_individual_growth.R,Fig_06A-B_MC38_tumor_growth,Source_Data.xlsx,Figure 6,A7:K101,input
+analysis/Fig_06C_MC38_tumor_free.R,Fig_06A-B_MC38_tumor_growth,Source_Data.xlsx,Figure 6,A7:K101,input
+analysis/Fig_06D_EO771_mean_growth.R,Fig_06D-E_EO771_tumor_growth,Source_Data.xlsx,Figure 6,A129:K224,input
+analysis/Fig_06E_EO771_individual_growth.R,Fig_06D-E_EO771_tumor_growth,Source_Data.xlsx,Figure 6,A129:K224,input
+analysis/Fig_06F_EO771_tumor_free.R,Fig_06F_EO771_tumor_free_by_experiment,Source_Data.xlsx,Figure 6,A378:G402,input
+analysis/Fig_06G-I_intratumoral_responses.R,Fig_06G_intratumoral_MP_CD8,Source_Data.xlsx,Figure 6,A230:E268,input
+analysis/Fig_06G-I_intratumoral_responses.R,Fig_06H_intratumoral_Treg,Source_Data.xlsx,Figure 6,A274:E312,input
+analysis/Fig_06G-I_intratumoral_responses.R,Fig_06I_intratumoral_MP_CD8_Treg_ratio,Source_Data.xlsx,Figure 6,A318:E356,input
+analysis/Fig_S04A-B_bulk_TIL_transcriptome.R,RNA_TIL_counts,Source_Data_RNA_inputs.xlsx,TIL_raw_counts,A1:K45778,input
+analysis/Fig_S04A-B_bulk_TIL_transcriptome.R,RNA_TIL_metadata,Source_Data_RNA_inputs.xlsx,Sample_information,A25:O34,metadata
+analysis/Fig_S04A-B_bulk_TIL_transcriptome.R,RNA_TIL_programs,Source_Data_RNA_inputs.xlsx,TIL_program_members,A1:F9,reference
+analysis/Fig_S05B_biodistribution.R,Fig_S05B_biodistribution,Source_Data.xlsx,Supplementary Figure 5,A8:G776,input
+analysis/Fig_S05C_CD122_expression.R,Fig_S05C_CD122_expression_plot_data,Source_Data.xlsx,Supplementary Figure 5,A782:G1202,input
+analysis/Fig_S05D_CD122_retention_correlation.R,Fig_S05D-E_marker_counts_retention,Source_Data.xlsx,Input S5d-e,A1:F8,input
+analysis/Fig_S05E_tissue_correlation_matrix.R,Fig_S05D-E_marker_counts_retention,Source_Data.xlsx,Input S5d-e,A1:F8,input
+analysis/Fig_S06C-H_splenic_dose_responses.R,figs06ce_initial_dose_splenic,Source_Data.xlsx,Supplementary Figure 6,A19:F91,input
+analysis/Fig_S06C-H_splenic_dose_responses.R,figs06fh_day7_dose_splenic,Source_Data.xlsx,Supplementary Figure 6,A97:I295,input
+analysis/Fig_S06C-H_splenic_dose_responses.R,splenic_Dunnett_comparisons,Source_Data.xlsx,Dunnett comparisons,A5:F65,adjusted P values
+analysis/Fig_S06I_sequential_PK_AUC.R,figs06i_sequential_pk,Source_Data.xlsx,Supplementary Figure 6,A301:E601,input
+analysis/Fig_S08B_representative_GSEA.R,RNA_MP_raw_counts,Source_Data_RNA_inputs.xlsx,MP_CD8_raw_counts,all rows,raw counts
+analysis/Fig_S08B_representative_GSEA.R,RNA_S8_gene_map,Source_Data_RNA_inputs.xlsx,S8_gene_ID_mapping,A1:B416,frozen identifier mapping
+analysis/Fig_S08B_representative_GSEA.R,RNA_S8_gene_sets,Source_Data_RNA_inputs.xlsx,S8_GSEA_gene_sets,all rows,frozen GO memberships
+analysis/Fig_S08B_representative_GSEA.R,RNA_S8_parameters,Source_Data_RNA_inputs.xlsx,S8_GSEA_parameters,A1:F2,parameters
+analysis/Fig_S08B_representative_GSEA.R,RNA_S8_pathway_annotations,Source_Data_RNA_inputs.xlsx,S8_pathway_annotations,all rows,ID and Description reference labels
+analysis/Fig_S09A-B_tumor_volume_cycles.R,Fig_S09A_MC38_tumor_volume_cycles,Source_Data.xlsx,Supplementary Figure 9,A7:F54,input
+analysis/Fig_S09A-B_tumor_volume_cycles.R,Fig_S09B_EO771_tumor_volume_cycles,Source_Data.xlsx,Supplementary Figure 9,A60:F107,input
+analysis/Suppl_Fig_02B_pSTAT5_CD25posCD4_CD8.R,figs02b_pstat5,Source_Data.xlsx,Supplementary Figure 2,A7:G27,input

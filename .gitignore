@@ -1,0 +1,13 @@
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user/
+.Renviron
+.DS_Store
+data/
+results/
+*_results/
+*.xlsx
+*.fastq
+*.fastq.gz
+*.fq.gz
